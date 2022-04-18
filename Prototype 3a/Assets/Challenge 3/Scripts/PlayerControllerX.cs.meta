@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c3da77984db434cf7a7209211eb746ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - explosionParticle: {instanceID: 0}
+  - fireworksParticle: {instanceID: 0}
+  - moneySound: {fileID: 8300000, guid: 9cfd66d073ec4e844a3c1271d51b2760, type: 3}
+  - explodeSound: {fileID: 8300000, guid: dcded9de18a08ef48877bf5f3ee4b455, type: 3}
+  - bounceSound: {fileID: 8300000, guid: c0bf8d390ae0df64393146a5428e8630, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
